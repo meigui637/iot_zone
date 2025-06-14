@@ -2,6 +2,8 @@
 
 Almost all versions have this vulnerability
 
-![1749909242868](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1749909242868.png)
+![image](https://github.com/user-attachments/assets/c1dfc251-04f1-4a54-a084-95758a109a3f)
 
-![1749909424969](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1749909424969.png)
+
+
+![image](https://github.com/user-attachments/assets/e024b340-7308-4f32-8392-384e4f52fd2d)
